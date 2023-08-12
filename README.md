@@ -30,7 +30,7 @@ npm install
 ```
 npm start
 ```
-- Postman Collection "https://drive.google.com/file/d/121tKLf-IWFHIFwtwHFyp18BYtZ0JWLbk/view?usp=sharing"
+- Postman Collection "https://drive.google.com/file/d/109B5c4qzrwm37LCkjdqOeXlmIP-Rw7s7/view?usp=sharing"
 - Navigate to `http://localhost:8000/`
 
 ## Endpoints
