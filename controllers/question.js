@@ -62,7 +62,7 @@ module.exports.addOption = async function(req, res){
             questionRef: req.params.questionId,
             votes: req.body.votes  
         });
-        option.link_to_vote = `http://localhost:8000/options/${option._id}/add_vote`;
+        option.link_to_vote = `https://polling-system-api-kh3r.onrender.com/api/v1/options/${option._id}/add_vote`;
 
         // save option
         await option.save();
